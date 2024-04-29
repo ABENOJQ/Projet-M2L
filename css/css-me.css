@@ -1,0 +1,5 @@
+.bg-color-twoColor{
+    background: linear-gradient(to bottom ,#FFBD59 50%, #FFF4E4 50%);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+}
